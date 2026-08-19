@@ -1,4 +1,4 @@
-# 🏋️ Decathlon Sales Analysis Dashboard
+#  Decathlon Sales Analysis Dashboard
 
 ## 📊 Project Overview
 
