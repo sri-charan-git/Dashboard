@@ -8,7 +8,7 @@ The objective of this project was to transform raw sales data into a structured 
 
 The project demonstrates the complete data analysis workflow, starting from raw data preparation and cleaning through data transformation, analysis, visualization, KPI creation, and dashboard development.
 
-> **⚠️ Important Data Disclaimer**
+> **Important Data Disclaimer**
 >
 > This project **does NOT use real Decathlon company data** and is **not affiliated with or endorsed by Decathlon**.
 >
@@ -18,7 +18,7 @@ The project demonstrates the complete data analysis workflow, starting from raw 
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 The main objectives of this project were to:
 
@@ -36,7 +36,7 @@ The main objectives of this project were to:
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 * **Microsoft Excel**
 * Excel Tables
@@ -54,7 +54,7 @@ The main objectives of this project were to:
 
 ## 📁 Dataset Information
 
-The dataset used in this project is a **fictional dataset created for this project**.
+The dataset used in this project is a fictional dataset created for this project.
 
 ### Dataset Details
 
@@ -98,7 +98,7 @@ The raw dataset contains information such as:
 
 ---
 
-# 🔄 Data Analysis Process
+#  Data Analysis Process
 
 The project followed the following workflow:
 
@@ -193,24 +193,24 @@ The final dashboard combines **KPIs, charts, Pivot Tables, and interactive slice
 
 ### Dashboard Features
 
-* 📌 KPI cards
-* 📊 Sales analysis
-* 📈 Monthly trend analysis
-* 🏷️ Category analysis
-* 🛍️ Product performance analysis
-* 💰 Revenue analysis
-* 💵 Profit analysis
-* 👥 Customer/gender analysis
-* 💳 Payment method analysis
-* 🌐 Sales channel analysis
-* 🔄 Return status analysis
-* 🎛️ Interactive slicers
+*  KPI cards
+*  Sales analysis
+*  Monthly trend analysis
+*  Category analysis
+*  Product performance analysis
+*  Revenue analysis
+*  Profit analysis
+*  Customer/gender analysis
+*  Payment method analysis
+*  Sales channel analysis
+*  Return status analysis
+*  Interactive slicers
 
 The slicers allow the user to filter the dashboard and analyze different parts of the dataset interactively.
 
 ---
 
-# 📌 Key KPIs
+#  Key KPIs
 
 Based on the complete dataset before applying dashboard filters, the analysis produced the following overall metrics:
 
@@ -226,7 +226,7 @@ Based on the complete dataset before applying dashboard filters, the analysis pr
 
 ---
 
-# 🔍 Key Findings
+#  Key Findings
 
 The analysis produced several useful observations from the fictional dataset.
 
@@ -268,7 +268,7 @@ The Outdoor category generated the highest total profit among the categories.
 
 ---
 
-# 💡 Business Insights
+#  Business Insights
 
 Based on the analysis, the dashboard can be used to:
 
@@ -288,23 +288,13 @@ These insights demonstrate how raw transactional data can be converted into a mo
 
 # 📊 Dashboard Preview
 
-Add a screenshot of your dashboard to this section.
-
-Save your dashboard screenshot inside the `Screenshots` folder and name it:
-
-```text
-dashboard.png
-```
-
-Then use:
-
 ```markdown
-![Decathlon Sales Dashboard](Screenshots/dashboard.png)
+![Decathlon Sales Dashboard](Dashboard.jpeg)
 ```
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```text
 Decathlon-Sales-Analysis-Dashboard/
@@ -315,10 +305,10 @@ Decathlon-Sales-Analysis-Dashboard/
 │   └── Decathlon Dashboard.xlsx
 │
 ├── Data/
-│   └── cleaned_data.xlsx
+│   └── Formatted Dataset.xlsx
 │
 ├── Screenshots/
-│   └── dashboard.png
+│   └── Dashboard.jpeg
 │
 └── Documentation/
     └── Project_Process.md
@@ -326,7 +316,7 @@ Decathlon-Sales-Analysis-Dashboard/
 
 ---
 
-# 📌 Project Outcome
+#  Project Outcome
 
 The project successfully transformed a fictional raw sales dataset into an **interactive Excel-based sales analysis dashboard**.
 
@@ -348,7 +338,7 @@ The project demonstrates the complete journey from **raw data to actionable anal
 
 ---
 
-# 🚀 Skills Demonstrated
+#  Skills Demonstrated
 
 ### Data Preparation
 
@@ -384,7 +374,7 @@ The project demonstrates the complete journey from **raw data to actionable anal
 
 ---
 
-## 👨‍💻 About This Project
+## 👨 About This Project
 
 This project was created as part of my **Data Analytics portfolio** to demonstrate practical skills in data cleaning, analysis, visualization, and dashboard development using Microsoft Excel.
 
