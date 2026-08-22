@@ -1,6 +1,6 @@
 #  Decathlon Sales Analysis Dashboard
 
-##  Project Overview
+## Project Overview
 
 This project is an **interactive Sales Analysis Dashboard created using Microsoft Excel**.
 
