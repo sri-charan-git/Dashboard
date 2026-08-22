@@ -374,7 +374,7 @@ The project demonstrates the complete journey from **raw data to actionable anal
 
 ---
 
-## 👨 About This Project
+##  About This Project
 
 This project was created as part of my **Data Analytics portfolio** to demonstrate practical skills in data cleaning, analysis, visualization, and dashboard development using Microsoft Excel.
 
