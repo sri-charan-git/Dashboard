@@ -187,7 +187,7 @@ Pivot Tables were used as the foundation for several dashboard visualizations an
 
 ---
 
-# 📈 Dashboard
+#  Dashboard
 
 The final dashboard combines **KPIs, charts, Pivot Tables, and interactive slicers** into a single analytical view.
 
