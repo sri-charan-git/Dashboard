@@ -6,7 +6,7 @@ This project is an **interactive Sales Analysis Dashboard created using Microsof
 
 The objective of this project was to transform raw sales data into a structured and interactive dashboard that can be used to analyze sales performance, revenue, profit, products, categories, sales channels, payment methods, customer information, and returns.
 
-The project demonstrates the complete data analysis workflow, starting from raw data preparation and cleaning through data transformation, analysis, visualizations, KPI creation, and dashboard development.
+The project demonstrates the complete data analysis workflow, starting from raw data preparation and cleaning through data transformation, analysis, visualization, KPI creation, and dashboard development.
 
 > **Important Data Disclaimer**
 >
